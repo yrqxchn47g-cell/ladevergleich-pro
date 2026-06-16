@@ -1,0 +1,9 @@
+{
+  "typ": "Sonstiges",
+  "typ_override": "Sonstiges",
+  "zweck": "Früher Rust-Prototyp (Breakeven-Analyse Ladevergleich) — Vorläufer von ladevergleich-pro1.",
+  "input": "—",
+  "notiz": "Nur src/main.rs + docs/help.pdf, KEIN Cargo.toml → nicht baubar/startbar. Reines Quell-Archiv.",
+  "startDeaktiviert": true,
+  "ausschluss": [".git", "target", "node_modules"]
+}
